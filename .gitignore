@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin/Debug/net5.0/ref
+/.vs/kusama_gallery_backend/v16
+/bin/Debug/net5.0
+/obj
